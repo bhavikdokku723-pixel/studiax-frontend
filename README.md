@@ -1,1 +1,0 @@
-# studiax-frontend
